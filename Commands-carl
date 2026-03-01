@@ -1,4 +1,4 @@
-> MDFJ:
+
 moon install [package]       → Installs a package or game (.vge)
 moon update on [package]     → Turns on automatic updates for the package
 moon update off [package]    → Turns off automatic updates for the package
