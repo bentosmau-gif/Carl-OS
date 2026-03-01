@@ -1,0 +1,22 @@
+> MDFJ:
+moon install [package]       → Installs a package or game (.vge)
+moon update on [package]     → Turns on automatic updates for the package
+moon update off [package]    → Turns off automatic updates for the package
+actualict moon [package]     → Manually updates the package
+moon open [package] → open app for vía web. 
+pc settings                 → Opens the settings menu
+# Inside the menu:
+1. System                   → General system settings
+2. Application              → Install or manage apps and packages
+3. Battery                  → RAM and energy optimization
+4. Hardware                 → View CPU, RAM, disks
+5. Network                  → Configure servers and connections
+6. Exit                     → Exit the menu
+apt -v                      → Shows system version
+carl -ver                   → Shows terminal version
+apt shell update install    → Updates the terminal in 1 minute
+# Used inside pc settings → Application
+pc install [language]        → Installs languages like Python, Node.js, Oracle
+pc principal install main.py → Installs main files for each language
+hardware pc ram             → Shows RAM amount
+hardware pc cpu             → Shows number of CPU cores
