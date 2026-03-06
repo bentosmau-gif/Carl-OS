@@ -245,3 +245,8 @@ int main() {
             printf("\033[1;32m¡Sesion reiniciada con exito!\033[0m\r\n");
         } else if (strlen(input) > 0) {
             printf("\r\n\033[1;31mComando desconocido.\033[0m\r\n");
+  }
+        fflush(stdout);
+    }
+    return 0;
+}
