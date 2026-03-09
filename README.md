@@ -1,1 +1,9 @@
-Carl OS 🚀 Connecting the past and the future of computing in a single system. Carl OS is a lightweight, versatile, and open-source operating system designed to be the ultimate solution for both cutting-edge hardware and older machines that have been left behind by conventional systems. The core of Carl OS is optimized to offer a smooth user experience, prioritizing resource efficiency without sacrificing compatibility with modern applications. Why Carl OS? In a world where software often grows faster than hardware capacity, Carl OS offers a balance: Smart Retro-Compatibility: Implements drivers and kernel configurations that bring processors and older architectures back to life. Modern Performance: On new computers, Carl OS flies. It makes the most of SSD speeds and recent CPU instructions for development and productivity tasks.
+================
+CARL    KERNEL
+================
+
+Carl Kernel 🧠
+The low-level kernel for hardware of all eras.
+Important clarification: Carl is not a complete operating system. Carl is a Kernel, the fundamental software component that acts as a direct bridge between hardware and applications.
+
+While an operating system includes a user interface and applications, Carl handles critical resource management: CPU, memory, input/output, and process communication.
