@@ -1,0 +1,13 @@
+## C++ Kernel
+
+This folder contains the implementation of the C++ kernel used in this project.  
+The kernel handles the execution environment and integrates with the core components of the system.
+
+### Contents
+- Source files for the kernel implementation
+- Utility and helper modules
+- Configuration and build files
+
+### Attribution
+The original owner and creator of this project is **bentosmau-gif**.  
+I am contributing to this repository as a collaborator.
