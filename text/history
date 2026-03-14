@@ -1,0 +1,34 @@
+HISTORY OF CARL:
+Origin.
+Carl was born as a secret advanced computing experiment, created by a group of programmers: Gamer Mauri, Dev, and me. The idea was mine to build a kernel much lighter than Linux. That supports win32 and OpenGL. Without depending on Windows or Linux.
+  Carl's logo. It is inspired by Tux, the Linux mascot. Carl decided to be faster, safer, and more flexible than any other OS.
+
+  Motivation.
+Carl wanted to break the limitations of traditional systems, that's why:
+He has a Virtual CPU for people who run out of physical CPU.
+It can run Windows and Linux games using their official APIs as a reference.
+His goal is for anyone, rich or poor, to be able to use it without restrictions.
+
+  Skills.
+Own kernel: manages memory, processes, and drivers in a modular way.
+Virtual CPU: multi-area without blocking the real PC.
+Game compatibility: using OpenGL, Vulkan, and Win32/Linux APIs.
+Security: Includes modules like OpenShield to prevent malicious code.
+
+  Objective.
+Carl wants to be the friendliest and most efficient OS for gamers and creatives.
+He doesn't seek money or fame, only to make sure users can play, create, and learn without limits.
+Its developers (me and my collaborators) keep it 100% free and accessible.
+
+  Conflicts.
+If you try to sell the code without authorization, Carl blocks it and maintains its integrity.
+The user's PC may be very busy, which is why the virtual CPU exists.
+Carl seeks compatibility with all hardware, but avoids depending on other operating systems.
+
+Future. Carl continues evolving:
+New drivers. 
+Better game integration (if possible).
+Virtual CPU and RAM optimization.
+The community can help expand its capabilities, always without breaking the philosophy of being free and accessible.
+
+  
